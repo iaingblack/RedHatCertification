@@ -1,2 +1,17 @@
+RHCSA
+-----
+
 RHCSA Summary, Question and Lab Pages
 45-54,105-113,167-174,232-239,277-284,334-341,385-393,435-442,471-477
+
+RHCSA Exam Readiness Check Sheet
+xlii-xlv
+
+RHCE
+----
+
+RHCE Summary, Question and Lab Pages
+471-477,527-535,571-578,622-629,669-678,722-732,764-772,798-805,834-842
+
+RHCE Exam Readiness Check Sheet
+xlvi-xlviii
