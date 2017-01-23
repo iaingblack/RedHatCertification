@@ -1,4 +1,5 @@
-add something like this;
+Add something like this;
 
 ks=ftp://192.168.0.223/RedHatCertification/CentOS7/kickstarter/ks-new-gb-cdrom-gui-noselinux-nofirewall.cfg
-ks=https://raw.githubusercontent.com/iaingblack/RedHatCertification/master/CentOS7/kickstarter/ks-new-gb-cdrom-gui-noselinux-nofirewall.ks
+
+ks=https://raw.githubusercontent.com/iaingblack/RedHatCertification/master/CentOS7/kickstarter/ks-new-gb-cdrom-gui-noselinux-nofirewall.cfg
