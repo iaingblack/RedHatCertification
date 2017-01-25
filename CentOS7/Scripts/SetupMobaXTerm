@@ -1,3 +1,7 @@
 Use MobaXTerm to setup easily on windows.
 
 yum install -y xorg-x11-xauth xorg-x11-fonts-* xorg-x11-font-utils xorg-x11-fonts-Type1
+
+Then do something like this to run firefox and maintain control of terminal;
+
+firefox &
